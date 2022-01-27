@@ -1,0 +1,17 @@
+.blue {
+    color : blue;
+}
+.pink {
+    color : pink;
+    background-color: red;
+    text-align: center;
+}
+
+.border-blue {
+    border: 5px solid blue;
+}
+
+.img-size {
+    width: 200px;
+    height: 200px;
+}
